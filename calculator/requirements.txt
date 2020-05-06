@@ -1,8 +1,0 @@
-xlutils
-xlrd
-xlwt
-requests
-tqdm
-flask
-flask-cors
-webob
